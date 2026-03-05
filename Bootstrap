@@ -1,0 +1,35 @@
+https://getbootstrap.com/docs/5.3/layout/breakpoints/
+
+
+
+BOOTSTRAPBAN HASZNÁLT TAGEK
+
+container
+row
+col-md-6
+col-lg-3
+
+card
+card-img-top
+card-body
+card-title
+card-text
+
+text-center
+lead
+
+mb-4
+mb-5
+
+bg-light
+section
+footer
+
+
+
+pl.
+
+container = középre igazított tartalom
+row = sor a grid rendszerben
+col = oszlop a grid rendszerben
+card = bootstrap kártya layout
