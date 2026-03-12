@@ -1,5 +1,6 @@
 *{margin:0;padding:0;box-sizing:border-box;}
 body{font-family:'Manrope',sans-serif;background:#f8f9fb;color:#111;}
+
 .container{max-width:1300px;margin:auto;padding:0 40px;}
 section{padding:120px 0;}
 
@@ -128,4 +129,17 @@ color:#222;
 @media(max-width:1000px){
 .grid{grid-template-columns:1fr;}
 .hero h1{font-size:44px;}
+}
+
+.navbar{
+font-weight:600;
+letter-spacing:0.5px;
+}
+
+.navbar-brand{
+font-weight:800;
+}
+
+.nav-link{
+margin-left:15px;
 }
