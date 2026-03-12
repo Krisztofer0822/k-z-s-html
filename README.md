@@ -1,2 +1,1 @@
-2026.03.05. Kezéds ideje
-A CSS MAPPA KELL HOGY MŰKÖDJÖN
+Uj domain:  https://krisztofer0822.github.io/k-z-s-html/
